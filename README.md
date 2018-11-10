@@ -1,6 +1,6 @@
 # Playing Cards iOS Assets
 
-Courtesy of https://code.google.com/p/vector-playing-cards/
+Courtesy of https://code.google.com/p/vector-playing-cards/ (public domain)
 
 With some additional processing to remove borders of cards.
 
